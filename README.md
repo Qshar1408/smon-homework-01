@@ -50,4 +50,9 @@
 
 С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.
 
+![Monitoring_002](https://github.com/Qshar1408/smon-homework-01/blob/main/img/smon_002.png)
+![Monitoring_003](https://github.com/Qshar1408/smon-homework-01/blob/main/img/smon_003.png)
+![Monitoring_004](https://github.com/Qshar1408/smon-homework-01/blob/main/img/smon_004.png)
+
+
 
